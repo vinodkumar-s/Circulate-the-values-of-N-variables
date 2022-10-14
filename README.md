@@ -23,13 +23,13 @@ Using the slicing concept rotate the list
 ## Step 5: 
 finally print the result 
 
+ ## Program:
  Program to circulate N values.
  
  Developed by: s.vinod kumar 
  
  RegisterNumber:22004903
 
-## Program:
 ```python
 def circulate():
     a=eval(input())
